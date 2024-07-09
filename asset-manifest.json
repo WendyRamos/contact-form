@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/contact-form/static/css/main.d08e6439.css",
+    "main.js": "/contact-form/static/js/main.b88cf30a.js",
+    "static/js/453.385e8649.chunk.js": "/contact-form/static/js/453.385e8649.chunk.js",
+    "static/media/Karla-Italic-VariableFont_wght.ttf": "/contact-form/static/media/Karla-Italic-VariableFont_wght.362e44a0d79d5fafc405.ttf",
+    "static/media/Karla-VariableFont_wght.ttf": "/contact-form/static/media/Karla-VariableFont_wght.1d835e644ae4118a28fc.ttf",
+    "index.html": "/contact-form/index.html",
+    "static/media/icon-checkbox-check.svg": "/contact-form/static/media/icon-checkbox-check.35b26dcf81381588048c9ee49c0d7bbd.svg",
+    "main.d08e6439.css.map": "/contact-form/static/css/main.d08e6439.css.map",
+    "main.b88cf30a.js.map": "/contact-form/static/js/main.b88cf30a.js.map",
+    "453.385e8649.chunk.js.map": "/contact-form/static/js/453.385e8649.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d08e6439.css",
+    "static/js/main.b88cf30a.js"
+  ]
+}
