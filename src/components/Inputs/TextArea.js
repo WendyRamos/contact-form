@@ -17,7 +17,7 @@ function TextArea({
         <span className="text-green-medium"> *</span>
       </label>
       <textarea
-        className={`input ${className} ${error ? "border-red-error" : ""}`}
+        className={`input cursor-text ${className} ${error ? "border-red-error" : ""}`}
         value={value}
         name={name}
         onChange={onChange}
