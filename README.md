@@ -6,7 +6,7 @@ Este fue uno de mis primeros proyectos utilizando React. El objetivo principal f
 
 ## 🔗 Ver Demo del proyecto
 
-* [Ver Demo]()
+* [Ver Demo](https://contact-form-five-beta.vercel.app)
 
 ## ✨ Características
 
@@ -64,5 +64,5 @@ Durante el desarrollo de este proyecto practiqué principalmente:
 Clona el repositorio:
 
 ```bash
-git clone https://github.com/WendyRamos/contact-formrevisa.git
+git clone https://github.com/WendyRamos/contact-form.git
 ```
