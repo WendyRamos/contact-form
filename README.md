@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+# 📝 Contact Form
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Formulario de contacto responsive desarrollado con **React** y **Tailwind CSS**, basado en un desafío de [Frontend Mentor](https://www.frontendmentor.io/).
 
-## Available Scripts
+Este fue uno de mis primeros proyectos utilizando React. El objetivo principal fue practicar la **componentización**, la creación de **componentes reutilizables**, el manejo de formularios y el diseño responsive.
 
-In the project directory, you can run:
+## 🔗 Ver Demo del proyecto
 
-### `npm start`
+* [Ver Demo]()
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## ✨ Características
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* 📱 Diseño responsive para diferentes tamaños de pantalla.
+* 🧩 Componentes reutilizables en React.
+* 📝 Formulario con diferentes tipos de campos.
+* ✅ Validación de los campos del formulario.
+* ⚠️ Estados y mensajes de error.
+* 🎉 Mensaje de confirmación después del envío.
+* 🎨 Estilos implementados con Tailwind CSS.
 
-### `npm test`
+## 🧩 Componentización
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Uno de los principales objetivos de este proyecto fue empezar a comprender cómo **React permite dividir una interfaz en componentes reutilizables**.
 
-### `npm run build`
+Por ejemplo, el formulario utiliza varios campos de entrada con estilos similares. En lugar de repetir el mismo código y los mismos estilos para cada uno, creé un componente reutilizable para los `input`.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+De esta manera, los estilos y la estructura común se definen una sola vez y el componente puede reutilizarse mediante **props**.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Esto me permitió practicar conceptos como:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* Creación de componentes.
+* Reutilización de componentes.
+* Uso de props.
+* Organización de la interfaz.
+* Evitar la repetición innecesaria de código.
 
-### `npm run eject`
+## 🛠️ Tecnologías utilizadas
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+* **React**
+* **JavaScript**
+* **Tailwind CSS**
+* **HTML5**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📱 Diseño responsive
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+El proyecto fue desarrollado siguiendo el diseño proporcionado por Frontend Mentor, adaptando la interfaz para diferentes tamaños de pantalla mediante las utilidades responsive de Tailwind CSS.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🎯 Lo que practiqué
 
-## Learn More
+Durante el desarrollo de este proyecto practiqué principalmente:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* Componentización en React.
+* Creación de componentes reutilizables.
+* Comunicación entre componentes mediante props.
+* Manejo de formularios.
+* Validación de datos.
+* Estados de error y confirmación.
+* Diseño responsive.
+* Uso de Tailwind CSS.
+* Organización y reutilización de estilos.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🚀 Instalación y ejecución
 
-### Code Splitting
+Clona el repositorio:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```bash
+git clone https://github.com/WendyRamos/contact-formrevisa.git
+```
